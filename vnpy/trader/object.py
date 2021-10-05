@@ -419,5 +419,3 @@ class QuoteRequest:
         )
         return quote
 
-    def git4test():
-       print(My bad!")
