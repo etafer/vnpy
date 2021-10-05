@@ -420,4 +420,4 @@ class QuoteRequest:
         return quote
 
     def git4test():
-       pass 
+       return 0
